@@ -1,0 +1,56 @@
+
+body{
+    background-image: url(huellas.png);
+/*     -webkit-mask-image: linear-gradient(white, transparent);
+    mask-image: linear-gradient(black, transparent); */
+}
+.mask1 {
+    -webkit-mask-image: linear-gradient(to bottom, transparent 25%, black 75%);
+    mask-image: linear-gradient(to bottom, transparent 25%, black 75%);
+  }
+
+h1 {
+    background-color: white;
+    opacity: 0.9;
+    color: rgb(167, 32, 88) ;
+    font-family: "Papyrus";
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 2px 2px rgb(219, 117, 151);
+  }
+
+h3{
+    background-color: white;
+    opacity: 0.9;
+    color: rgb(30, 209, 69) ;
+    font-family: "Papyrus";
+    text-align: left;
+    font-size: 50px;
+  }
+p{
+    background-color: white;
+    opacity: 0.9;
+    color: rgb(4, 19, 7) ;
+    font-family: "Papyrus";
+    text-align: left;
+    font-size: 24px;
+}
+ul {
+    list-style-type: inside;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    opacity: 0.95;
+    font-family: "Papyrus";
+    text-align: left;
+    font-size: 24px;
+  }
+
+  div {
+    float: left;
+    width: 500px;
+    border: 12px solid rgb(100, 10, 141);
+    padding: 25px;
+    margin: 10px;
+  }
+

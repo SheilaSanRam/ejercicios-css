@@ -1,0 +1,31 @@
+/* body{
+    background-color:rgb(129, 212, 194);
+}
+ */
+ h1{
+     color:lightseagreen; 
+     text-align: center;
+ }
+
+ #title{
+     color:greenyellow;
+     text-align: center;
+ }
+ /* p{
+     color:mediumaquamarine;
+     background-color: grey;
+ } */
+
+ /* Para heredar atributos */
+ .p-large{
+     font-size: 32px;
+ }
+ .p-green{
+    color:mediumaquamarine;
+    background-color: rgb(66, 64, 64);
+ }
+.p-pink{
+    color:palevioletred;
+    background-color: rgb(66, 64, 64);
+}
+/* SE muestran las últimas asignaciones de estilo */

@@ -1,0 +1,47 @@
+/* id para hacer referencia a #
+   class para hacer referencia a .
+   y si no, solo son etiquetas */
+
+body{
+    background-image: url(https://as01.epimg.net/diarioas/imagenes/2021/04/04/actualidad/1617522301_249725_1617522361_noticia_normal_recorte1.jpg);
+    /* para que la imagen cubra todo el fondo a lo ancho*/
+    background-size:cover;
+}
+/* Formato del título */
+.title{
+    text-align: center; /* Para centrar el texto */
+    color: rgb(212, 92, 212); /* color del título */
+    background-color: rgb(88, 84, 84); /* Color de fondo del título */
+    /* Si posiciono el mouse sobre la función puedo saber que propiedades permite modificar */
+    border: 2px dashed rgb(104, 12, 88); /* Ancho, tipo y color del borde */
+    margin: 50px;
+    
+}
+/* Formato del subtítulo */
+.subtitle{
+    background-color: rgb(90, 181, 197);
+    color: rgb(9, 5, 58);
+    text-align: center;
+    padding: 20px; /* Sirve para enmarcar un elemento */
+    margin: 30px;
+
+}
+
+/* Formato a una división 
+Se puede separar por comas todos los elementos a los que se quiere aplicar un estilo*/
+#caja{
+    background-color: black;
+    width:250px; /* Dan el tamaño de la caja */
+    height:150px;
+    text-align: center;
+    margin: 0 auto;/* Para centrar la caja\ si se aplica un valor lo aplica a todos los lados. Si son dos valores se aplica arriba-abajo, izq-der.*/
+
+    /* margin-top:50px;
+    margin-bottom:100px; Estos se aplican como separación entre los elementos aledaños*/ 
+}
+/* Formato a un elemento dentro de otro */
+
+#caja p{
+    color: white;
+}
+
