@@ -1,0 +1,48 @@
+.f1{
+    font-family: 'Anonymous Pro', monospace;
+    color:hotpink;
+    text-align: center;
+    text-shadow: 4px 4px greenyellow;
+}
+.f2{
+    font-family: 'Homemade Apple', cursive;
+    color:rgb(62, 52, 153);
+    text-align: right;
+}
+.f3{
+    font-family: 'IM Fell English SC', serif;
+    color:rgb(19, 185, 172);
+    text-align: center;
+}
+
+.f4{
+    font-family: 'Italianno', cursive;
+    color:rgb(241, 208, 15);
+    text-align: left;
+    text-shadow: 2px 2px black;
+}
+
+.f5{
+    font-family: 'Mrs Saint Delafield', cursive;
+    color:rgb(241, 15, 83);
+    text-align: left;
+    text-shadow: 2px 2px rgb(61, 166, 180);
+}
+.f6{
+    font-family: 'Quantico', sans-serif;
+    color:rgb(15, 241, 15);
+    text-align: left;
+    text-shadow: 2px 2px black;
+}
+.f7{
+    font-family: 'Shadows Into Light Two', cursive;
+    color:rgb(10, 99, 141);
+    text-align: left;
+    text-shadow: 2px 2px black;
+}
+.f8{
+    font-family: 'VT323', monospace;
+    color:rgb(241, 15, 230);
+    text-align: left;
+    text-shadow: 2px 2px black;
+}

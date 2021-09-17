@@ -1,0 +1,12 @@
+.title{
+    font-family: 'Homemade Apple', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+/* Si la fuente tiene pesos con font-weight se puede modificar */
+
+.font{
+    font-family: 'Shadows Into Light Two', cursive;
+    text-align: center;
+    font-size: 60px;
+}
